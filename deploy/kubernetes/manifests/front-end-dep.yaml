@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: front-end
-        image: errordeveloper/front-end:master-058e848e
+        image: errordeveloper/front-end:master-ab43c121
         resources:
           requests:
             cpu: 100m
