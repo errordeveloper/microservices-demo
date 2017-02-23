@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: user
-        image: gcr.io/flux-demo-159311/user:master
+        image: gcr.io/flux-demo-159311/user:master2
         ports:
         - containerPort: 80
         env:
