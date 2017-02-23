@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: front-end
-        image: gcr.io/flux-demo-159311/front-end:master
+        image: gcr.io/flux-demo-159311/front-end:master2
         resources:
           requests:
             cpu: 100m
